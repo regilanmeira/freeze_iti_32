@@ -33,6 +33,8 @@ and open the template in the editor.
         <script src="js_bootstrap/bootstrap.min.js"></script>
     </head>
     <body>
+        <form action="produto_cadastro_salvar.php" method="post">
+
 
         <!-- CABEÇALHO -->
         <?php include 'header_admin.php' ?>
@@ -58,5 +60,6 @@ and open the template in the editor.
         </div>
         <!-- RODAPÉ -->
         <?php include 'footer_admin.php' ?>
+</form>
     </body>
 </html>

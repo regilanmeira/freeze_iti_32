@@ -40,6 +40,8 @@
                             <a href="relatorio_contato.php">Visualizar contatos</a>
 
                         </li>
+
+                     
                            <li class="menu">
                                <a href="index.php">Sair</a>
 
