@@ -37,6 +37,7 @@ and open the template in the editor.
         <!-- CABEÇALHO -->
         <?php include 'header_admin.php' ?>
 
+        <form action="forma_pagamento_cadastro_salvar.php" method="post">
         <div id="body" class="contact">
             <div class="footer">
                 <div class="contact">
@@ -53,6 +54,7 @@ and open the template in the editor.
                 </div>
             </div>
         </div>
+        </form>
         <!-- RODAPÉ -->
         <?php include 'footer_admin.php' ?>
     </body>
