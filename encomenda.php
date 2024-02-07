@@ -43,7 +43,7 @@ and open the template in the editor.
         ?>
 
     <!-- CORPO -->
-    <form action="" method="post">
+    <form action="encomenda_salvar.php" method="post">
 
         <div id="body" class="contact">
             <div class="footer">
